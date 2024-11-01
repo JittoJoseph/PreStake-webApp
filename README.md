@@ -11,7 +11,7 @@ This is a deployment-only repository containing:
 
 ## Main Project
 
-For the full source code, documentation, and contribution guidelines, please visit the main Prestake repository at [PreStake](https://github.com/JittoJoseph/PreStake-Paper-Staking-App).
+For the full source code and documentation please visit the main Prestake repository at [PreStake](https://github.com/JittoJoseph/PreStake-Paper-Staking-App).
 
 ## Deployment
 
